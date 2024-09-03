@@ -6,7 +6,7 @@ package databaseconnection;
 
 /**
  *
- * @author BLADE RUNNER
+ * @author Sandani Siriwardhana
  */
 public class ConnectionManager {
     
