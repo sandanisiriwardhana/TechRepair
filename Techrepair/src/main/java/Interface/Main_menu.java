@@ -6,7 +6,7 @@ package Interface;
 
 /**
  *
- * @author BLADE RUNNER
+ * @author Sandani Siriwardhana
  */
 public class Main_menu extends javax.swing.JFrame {
 
